@@ -1,0 +1,16 @@
+/********* Paginas ********/
+
+nav {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: blue;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
